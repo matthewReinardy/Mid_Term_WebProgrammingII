@@ -1,0 +1,32 @@
+.company-description {
+    background-color: #ffffff; 
+    padding: 40px; 
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    justify-content: center; 
+    text-align: center; 
+}
+
+.company-description h2 {
+    font-size: 2.5rem; 
+    margin-bottom: 20px;
+}
+
+.company-description p {
+    font-size: 1.2rem; 
+    margin-bottom: 20px;
+}
+
+.company-description ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.company-description ul li {
+    margin: 10px 0; 
+}
+
+.company-description img {
+    padding: 50px;
+}
